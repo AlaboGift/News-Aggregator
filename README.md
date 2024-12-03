@@ -30,5 +30,5 @@ Follow the steps below to set up and run the service:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/news-aggregator.git](https://github.com/AlaboGift/News-Aggregator.git)
+   git clone https://github.com/AlaboGift/News-Aggregator.git
    cd news-aggregator
